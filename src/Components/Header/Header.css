@@ -1,3 +1,10 @@
 nav a{
-    margin-right: 10px;
+    margin: 10px;
+}
+nav a.active{
+    text-decoration: underline;
+    background: skyblue;
+    color: rgb(57, 113, 136);
+    padding: 8px;
+    border-radius: 8px;
 }
